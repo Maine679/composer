@@ -1,0 +1,11 @@
+{
+  "require": {
+    "aura/sqlquery": "2.7.*",
+    "ext-pdo": "*"
+  },
+  "autoload": {
+    "psr-4": {
+      "app\\": "app/"
+    }
+  }
+}

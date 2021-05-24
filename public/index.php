@@ -4,9 +4,8 @@ require_once '..\vendor\autoload.php';
 
 use app\MyQB;
 
+
 $example = new MyQB();
-
-
 
 //$results = $example->FindOne('users',['*'],14);
 //$results = $example->getAll('users',['*']);
